@@ -1,0 +1,12 @@
+.GwPagBotaoDefault	{display:none;}
+.GwPagBotaoNormal	{display:none;}
+
+hr.GwPagDivBotoes	{display:none;}
+hr.GwPagDivFooter	{border-top: 1px solid #000000; height:1px;}
+
+#GwPagLogoMG	{display:none;}
+#GwPagLogoMG2	{display: block;}
+
+.GwPagSection {margin-left:auto; margin-right:auto;}
+
+.GwPagSectionHeader	{background-color: #FFFFFF; border-top: 2px solid #00235a; border-bottom: 1px dotted #00235a;}

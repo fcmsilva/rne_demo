@@ -1,0 +1,31 @@
+.GwPagSectionHeader				{background-color: #E3EEFF; border-top: 2px solid #00235a;}
+.GwPagSectionHeaderTitle		{font-family:arial, sans-serif; font-size:18px; color:#00235a;}
+.GwPagSectionHeaderTitleDesc	{font-family:arial, sans-serif; font-size:10px; color:#003d9c;}
+.GwPagSectionHeaderNumber		{font-family:arial, sans-serif; font-size:24px; color:#00235A; font-weight:bold;}
+
+.GwPagSectionBody	{background-color: #FFFFFF; border-spacing: 1px;}
+
+.GwPagPageTitle		{font-family:arial, sans-serif; font-size:11px; color:#00235a;}
+.GwPagNormal		{font-family:arial, sans-serif; font-size:11px; color:#00235a;}
+.GwPagTableHeader	{font-family:arial, sans-serif; font-size:11px; font-weight:bold; color:#003d9c; border-bottom: 1px dotted #6699CC;}
+.GwPagTableData		{font-family:arial, sans-serif; font-size:11px; color:#00235a; border-bottom: 1px dotted #6699CC;}
+.GwPagLabel			{font-family:arial, sans-serif; font-size:11px; color:#00235a; border-bottom: 1px dotted #6699CC;}
+.GwPagValue			{font-family:arial, sans-serif; font-size:11px; font-weight:bold; color:#003d9c; border-bottom: 1px dotted #6699CC;}
+.GwPagTotalNum		{font-family:arial, sans-serif; font-size:16px; font-weight:bold; color:#ffa000;}
+.GwPagTotalLabel	{font-family:arial, sans-serif; font-size:11px; color:#ffa000;}
+.GWPagMeiosPagamento{font-family:arial, sans-serif; font-size:11px; color:#003d9c;}
+
+.GwPagCopyright		{font-family:arial, sans-serif; font-size:10px; color:#999999;}
+
+.GwPagError			{font-family:arial, sans-serif; font-size:15px; font-weight:bold; color:#ffa000;}
+.GwPagErrorBig		{font-family:arial, sans-serif; font-size:22px; color:#ffa000;}
+
+.GwPagCheckBox		{font-family:arial, sans-serif; font-size:11px; color:#003d9c; background-color:#FFFFFF; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; width:15px; height:15px;}
+.GwPagFormField		{font-family:arial, sans-serif; font-size:11px; color:#003d9c; padding-left:3px; padding-right:3px; border:1px solid #00235a;}
+.GwPagFormSelect	{font-family:arial, sans-serif; font-size:11px; color:#003d9c; border:1px solid #00235a;}
+
+.GwPagBotaoDefault	{background-color:#00235A; font-family:arial, sans-serif; font-size:10px; color:#FFFFFF;}
+.GwPagBotaoNormal	{background-color:#B3D0F1; font-family:arial, sans-serif; font-size:10px; color:#FFFFFF;}
+
+hr.GwPagDivBotoes	{color:#EAEAEA; background-color:#EAEAEA;}
+hr.GwPagDivFooter	{color:#FFA000; background-color:#FFA000;}
